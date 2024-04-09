@@ -167,6 +167,7 @@ section .left img {
   flex-wrap: nowrap;
 }
 
+
 section .left .icon-left {
   width: 36px;
   height: 36px;
@@ -191,6 +192,7 @@ section .left .top {
 section .main h4 {
   margin: 1rem 0rem 1rem 1rem;
   color: #64676b;
+  margin-left: 80px;
 }
 
 .item01 {
@@ -198,6 +200,7 @@ section .main h4 {
   display: flex;
   align-items: center;
   padding: 0 1rem;
+  margin-left: 60px;
 }
 
 section .left .middle {
@@ -306,7 +309,7 @@ section .center .post img {
   margin: 16px;
 }
 
-section .post .bottom .media {}
+
 
 section .center .post .poststatus {
   display: flex;
